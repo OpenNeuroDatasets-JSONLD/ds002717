@@ -15,12 +15,17 @@
         "Eva Mishor1",
         "Edna Furman-Haran",
         "Howard Carp",
-        "Noam Sobel"],    
+        "Noam Sobel"
+    ],
     "BIDSVersion": "1.0.1",
- 
-    "Funding":["This work was funded by grant #670798 (SocioSmell)"],
+    "Funding": [
+        "This work was funded by grant #670798 (SocioSmell)"
+    ],
     "HowToAcknowledge": "With using this data please cite the papers in References and Links",
-    "License": "PDDL (http://opendatacommons.org/licenses/pddl/)",
+    "License": "CC0",
     "Name": "Unexplained Repeated Pregnancy Loss is Associated with Altered Perceptual and Brain Responses to Male Body-Odor",
-    "ReferencesAndLinks": ["doi: https://doi.org/10.1101/2020.02.06.937029."]
+    "ReferencesAndLinks": [
+        "doi: https://doi.org/10.1101/2020.02.06.937029."
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002717.v1.0.0"
 }
