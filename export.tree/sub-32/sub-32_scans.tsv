@@ -1,0 +1,5 @@
+filename	acq_time	operator	randstr
+func/sub-32_task-blank_run-01_bold.nii.gz	2017-10-10T11:48:35	bnattar	f0467a61
+anat/sub-32_T1w.nii.gz	2017-10-10T12:11:58	bnattar	261e8db7
+func/sub-32_task-bodyodor_run-02_bold.nii.gz	2017-10-10T12:13:35	bnattar	2604b5e0
+anat/sub-32_acq-tse_T2w.nii.gz	2017-10-10T12:52:13	bnattar	39fd7e93
