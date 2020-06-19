@@ -1,0 +1,5 @@
+filename	acq_time	operator	randstr
+anat/sub-03_T1w.nii.gz	2017-10-10T09:23:18	bnattar	ef55cd73
+func/sub-03_task-blank_run-01_bold.nii.gz	2017-10-10T09:27:33	bnattar	ba141d0a
+func/sub-03_task-bodyodor_run-02_bold.nii.gz	2017-10-10T09:44:20	bnattar	d36f4f52
+anat/sub-03_acq-tse_T2w.nii.gz	2017-10-10T10:25:20	bnattar	6e2586bf
