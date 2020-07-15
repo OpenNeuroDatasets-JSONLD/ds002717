@@ -1,3 +1,5 @@
+1.0.1 2020-07-15
+  - Addition of subject codes to link fMRI data to participants codes in the study (see .tsv file named "participants.tsv"), and updated info: Title, authors.
 0.0.1  Initial data acquired
 TODOs:
 	- verify and possibly extend information in participants.tsv (see for example http://datasets.datalad.org/?dir=/openfmri/ds000208)
